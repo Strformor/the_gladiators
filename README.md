@@ -17,7 +17,7 @@ How do gladiators with different levels of patron wealth compare in terms of equ
 
 Are younger gladiators more likely to win or survive than older ones?
 
-What factors most influence whether a gladiator survives (e.g., health status, patron wealth, equipment quality)?\
+What factors most influence whether a gladiator survives (e.g., health status, patron wealth, equipment quality)?
 
 # Installation Instructions
 To run the analysis and explore the dataset, you'll need the following Python libraries installed:
