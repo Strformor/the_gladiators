@@ -11,13 +11,16 @@ This project focuses on analyzing a dataset of Ancient Roman gladiators to answe
 The analysis will be conducted using Python and relevant data analysis libraries, with the primary dataset sourced from Kaggle. The project will provide insights into the dynamics of gladiatorial combat and the influence of different factors on outcomes.
 
 # Research Questions:
-Can public favor be predicted from attributes such as crowd appeal techniques and social standing?
-
-How do gladiators with different levels of patron wealth compare in terms of equipment quality and survival rates?
-
 Are younger gladiators more likely to win or survive than older ones?
 
-What factors most influence whether a gladiator survives (e.g., health status, patron wealth, equipment quality)?
+How do gladiators with different levels of patron wealth compare in terms of equipment
+quality and survival rates?
+
+Can public favor be predicted from attributes such as crowd
+appeal techniques and social standing?
+
+What factors most influence whether a gladiator survives (e.g., health status, patron
+wealth, equipment quality)
 
 # Installation Instructions
 To run the analysis and explore the dataset, you'll need the following Python libraries installed:
