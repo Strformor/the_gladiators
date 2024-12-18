@@ -1,9 +1,3 @@
-# the_gladiators
-
-Added code and initial push.
-
-Made additional changes.
-
 # Are You Entertained?
 
 Statistical Analysis of Ancient Roman Gladiators
